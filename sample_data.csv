@@ -1,0 +1,16 @@
+Order_ID,Date,Product,Category,Quantity,Price,Revenue,City,Customer_Type
+1001,2026-01-02,Wireless Mouse,Electronics,2,25.00,50.00,Mumbai,Regular
+1002,2026-01-05,Bluetooth Speaker,Electronics,1,75.00,75.00,Pune,Premium
+1003,2026-01-10,Running Shoes,Footwear,1,120.00,120.00,Mumbai,Regular
+1004,2026-01-12,Cotton T-Shirt,Apparel,3,20.00,60.00,Thane,Regular
+1005,2026-01-15,Coffee Maker,Home Appliances,1,150.00,150.00,Nashik,Premium
+1006,2026-01-18,Backpack,Travel,2,45.00,90.00,Mumbai,Regular
+1007,2026-01-20,Wireless Mouse,Electronics,4,25.00,100.00,Pune,Premium
+1008,2026-01-22,Running Shoes,Footwear,2,120.00,240.00,Thane,Regular
+1009,2026-02-01,Smart Watch,Electronics,1,200.00,200.00,Mumbai,Premium
+1010,2026-02-03,Bluetooth Speaker,Electronics,2,75.00,150.00,Nagpur,Regular
+1011,2026-02-05,Cotton T-Shirt,Apparel,5,20.00,100.00,Pune,Regular
+1012,2026-02-10,Coffee Maker,Home Appliances,1,150.00,150.00,Mumbai,Regular
+1013,2026-02-15,Running Shoes,Footwear,1,120.00,120.00,Nashik,Premium
+1014,2026-02-18,Backpack,Travel,1,45.00,45.00,Thane,Regular
+1015,2026-02-20,Smart Watch,Electronics,2,200.00,400.00,Mumbai,Premium
